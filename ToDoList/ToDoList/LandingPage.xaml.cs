@@ -20,6 +20,7 @@ namespace ToDoList
         private void MenuItem_OnClicked(object sender, EventArgs e)
         {
             throw new NotImplementedException();
+            Console.WriteLine("Delete me");
         }
     }
 }
